@@ -1,12 +1,10 @@
 ### Hi there :wave:
 
-I am [Andrew R. McCluskey](https://mccluskey.scot), a scientist and programmer.
+I am [Andrew R. McCluskey](https://mccluskey.scot), a scientist, educator, and programmer.
+I lead the [SCAMs@bristol](https://scams-research.github.io) research group in the School of Chemistry at the University of Bristol.
 
-My research focuses on neutron reflectometry methods, with a particular focus on their analysis and interpretation, working at the European Spallation Source's Data Management and Software Centre.
-In addition to research, I used to teach a final year undergraduate course in the Department of Chemistry at the University of Bath, introducing students to Python programming and it's application in the chemical sciences. 
-
-- Where: København, DK
-- Work: [European Spallation Source](https://europeanspallationsource.se/data-management-software-centre)
+- Where: Bristol, GB
+- Work: [School of Chemistry, University of Bristol](https://www.bristol.ac.uk/chemistry/)
 - Contact: [Email](mailto:andrew@mccluskey.scot)
 - Pronouns: (he/him)
 
